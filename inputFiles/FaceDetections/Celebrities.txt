@@ -1,0 +1,615 @@
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0106 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0107 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0108 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\04 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\048667_A2_123_927lo (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\04aM3D (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\076 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\07D4Bb (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\085 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0ajyfuy (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0ang (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie (1) (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 029 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 030 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 042 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 047 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 077 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina Jolie 085 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0angelina-jolie-1024x768-20122 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0angelina-jolie-1024x768-21627 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0angelina-jolie-1024x768-22269 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0angelina-jolie-1024x768-22272 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_hd_wallpapers1 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_high_definition_wallpapers8 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_images11 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_new14 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_photos9 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_pics12 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_pictures10 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_wallpapers_desktop2 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0Angelina_Jolie_wallpapers_widescreen3 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0aTSuoD (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0etbw (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0grfxyr (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0jolie2321152x864 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0jolie2491152x864 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0jolie3101152x864 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0jolie3381152x864 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0ngcgj (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0q7ate (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0ugvu (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\0yete (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\1Angelina Jolie 088 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Anjelina Jolie\1AQAlB1 (Custom) (Custom).jpg;0
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0143576 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0423936 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0435034 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0435041 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0456899 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0467655 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0493666 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0495885 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0516534 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0516541 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0516707 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0534544 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0534545 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0539413 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0539415 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0552719 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0553696 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0563378 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0564837 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0566118 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0566124 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0583921 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0586730 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0590695 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0601706 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0609225 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0609237 (Custom).png;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0609243 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0609247 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0611813 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0612906 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0614823 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0615769 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0615770 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0615778 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0616237 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0623134 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0634391 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639397 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639398 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639401 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639422 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639440 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639447 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639448 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0639457 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0640341 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0640457 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0642871 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0647980 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0658675 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0659729 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0659747 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0668204 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0668206 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0668627 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0668630 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0670853 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0670951 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0673180 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0673310 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0677986 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0678511 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0678512 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0678514 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0686927 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0686929 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\0694385 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\1601706 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\1613968 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Chloë Grace Moretz\1639401 (Custom).jpg;1
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0203294 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0224327 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0239628 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0246155 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0487118 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0487118.jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0487120 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0487126 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0487127 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0515434 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0529752 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0585103 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0598961 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0598962 (Custom).png;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0598963 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0613916 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0613993 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0614819 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0614827 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0615545 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0618173 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0618178 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0618221 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0618345 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0629885 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637283 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637289 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637310 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637312 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637650 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637670 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0637677 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640278 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640438 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640886 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640900 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640906 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640909 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640912 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640917 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640931 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640938 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640941 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640943 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640946 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640947 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0640948 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0652264 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0661161 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0661162 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emilia Clark\0685444 (Custom).jpg;2
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\0108671 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\0122712 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\021927 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\024232 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\024234 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\03681 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\044496 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\0581095 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\0591892 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\0643413 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\071137 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\080030 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\080033 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\081925 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082062 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082233 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082234 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082239 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082270 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082287 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082364 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082502 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082504 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082506 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082507 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082509 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082514 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082515 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082516 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082517 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082592 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082593 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082598 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082599 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082600 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082602 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082603 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082604 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082606 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082608 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082609 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082610 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\082611 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085407 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085410 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085417 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085419 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085420 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085428 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\085583 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\086387 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\086389 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\092646 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\1400588 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Emma Watson\185406 (Custom).jpg;3
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\01349140451158 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0139489 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0157316 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0159001 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0159002 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0167878 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0168125 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0168127 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0175742 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0182329 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0190048 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0247480 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0247482 (Custom).png;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0248354 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0269787 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0277364 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0277367 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0277369 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0284727 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0308325 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0313935 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0324522 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0330363 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0333272 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0334899 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0335006 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0336130 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0336624 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0339692 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0340640 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0341463 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0341659 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0342253 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0343359 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0343374 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0343375 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0349800 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0352555 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0352597 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0359046 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0370078 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0390851 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0420537 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0422916 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0433414 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0434148 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0490208 (Custom).png;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0490209 (Custom).png;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0543998 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0571108 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0571138 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0585376 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0605905 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611223 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611225 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611226 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611227 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611229 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611232 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611570 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0611625 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0614160 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0615399 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0630924 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0634005 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0634850 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0635048 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0635061 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0635097 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0635099 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0636477 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0642071 (Custom).png;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0645234 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647650 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647653 (Custom).png;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647657 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647659 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647662 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\0647663 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\1159088 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\1635141 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\1647661 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Mila Kunis\1649741 (Custom).jpg;4
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0123653 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0153561 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0157730 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0168134 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0168135 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0168138 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0200936 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0248355 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0248356 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0248359 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0340980 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0341003 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0343621 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0365405 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0365655 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0374894 (Custom).png;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0407988 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0420813 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0420831 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450238 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450244 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450245 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450246 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450247 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450248 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450250 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450252 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450259 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0450261 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0465996 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0516755 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0518077 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568046 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568063 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568076 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568094 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568113 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568116 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0568117 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\058093 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0581299 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0583586 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0591081 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0591089 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0591096 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0599669 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0603644 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0603646 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0614017 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\0640273 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\1568118 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\1603645 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\1640487 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Milla Jovovich\1651371 (Custom).jpg;5
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\003 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\006 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\007 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\011 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01333133999736 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01337558735263 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01338421260695 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01338425308741 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01338425471019 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01338426479356 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01338619087735 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348725289459 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348725888357 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348727616991 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348729521817 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348729995886 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\01348732400273 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\015 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\016 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0167926 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\018 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0186789 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\018920 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\020 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\021 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\021264 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\021272 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\022 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0226138 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\028 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\029 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\030 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\030111 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0305959 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\032 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0324527 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0326585 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0326597 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0326599 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0327454 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0341855 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\035 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0355129 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\036 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0362419 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0367790 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\038364 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\038371 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\038382 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\03tRJb (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0412838 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0414108 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0414218 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0418786 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419303 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419321 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419324 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419329 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419337 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419342 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0419445 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\042 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\045 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0469881 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0494440 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0494789 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0496229 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0498742 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\051 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0582091 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0588690 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\05mRnAh (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0634600 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0637031 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\074934 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\074936 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\074938 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\074941 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\076917 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\07W9nY (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\07ZeQN (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\083001 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\08Dho0 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0gpqqd (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0lmoFp - Imgur (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0lz1B4 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0mgqgC (1) (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0mgqgC (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0OlTSc (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson19 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_201513 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_background15 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_download_wallpapers6 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_hd17 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_hd_wallpapers1 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_high_definition_wallpapers8 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_high_quality_wallpapers4 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_high_resolution_wallpapers7 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_images11 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_new14 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_photos9 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_pics12 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_wallpapers0 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_wallpapers_desktop2 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_wallpapers_widescreen3 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Scarlett_Johansson_widescreen16 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0SCqtX (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0sies-13 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0sMHNna (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0smJvls (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0sqxo0J (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0sYqF1v (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0ugkug (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0V7QmZ (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0v8zAb (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0vBsu8 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0Yz6nY (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\0zxnDI - Imgur (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\11333132838936 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\11348725753485 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\11348727802979 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\121272 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\138389 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\1637031 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\1Dia9M - Imgur (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\21348725208747 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\2637031 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\293361 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\31334866754556 (Custom).jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Scarlet Johansson\31334866754556.jpg;6
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0148906 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0153027 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0187585 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0187586 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0187589 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0283467 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0330776 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0338593 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0339631 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0359806 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0359811 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0359817 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0365901 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0403559 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0407113 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0407125 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0409181 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0409184 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0409187 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0411967 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0425006 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0425272 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0425452 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426017 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426018 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426024 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426507 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426514 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426522 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426532 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0426535 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0427023 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0443701 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0446896 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0464674 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496335 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496336 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496337 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496340 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496347 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0496348 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0499175 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0499177 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0563035 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0571400 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0598972 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0601692 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0613919 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0613920 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0614820 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0615360 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0615362 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0615469 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0615474 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0617920 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0618475 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0653906 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0683242 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0683244 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\0695804 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\1211025 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\1496323 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\1496348 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\1615476 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\2615470 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\3426516 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Selena Gomez\5425271 (Custom).jpg;7
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0153461 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0154612 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0154614 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0154892 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0155402 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0175787 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0212739 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0212740 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0244590 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0288193 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0306182 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0320315 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0326353 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0340424 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0340426 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0340428 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0340432 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0342243 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0343360 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0345941 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0350794 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0359104 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0359823 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0359834 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0365494 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0387791 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0409877 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0462077 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0510727 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0560885 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0560886 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0568492 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0613835 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0613838 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0616496 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0658767 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0658773 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0658969 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0658970 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0658976 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0659632 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0659955 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0660041 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0661629 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\066548 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\066967 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0683252 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\0692526 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\085158 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\1212739 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\1244590 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\1320315 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\1359834 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\1658972 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2212739 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2244590 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2612825 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2612828 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2658968 (Custom).jpg;8
+C:\Users\keyur\workspace\OnYourFace\inputFiles\FaceDetections\Celebrities\Taylor Swift\2659955 (Custom).jpg;8
